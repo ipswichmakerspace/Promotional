@@ -8,4 +8,5 @@ In here we shall be keeping information, templates, design files etc related to 
 Index
 -----
 
-1) Key Tags - Inkscape SCG and PDF
+1) Key Tags - Inkscape SVG and PDF
+2) Beer Mats - Inkscape SVG and PDF
