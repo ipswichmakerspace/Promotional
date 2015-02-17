@@ -11,3 +11,5 @@ Index
 1) Key Tags - Inkscape SVG and PDF
 
 2) Beer Mats - Inkscape SVG and PDF
+
+3) Raspberry Pi Case - Based on Pi-Supply.com case licensed under CC-BY-SA, for model B, B+ and Pi2 model B
