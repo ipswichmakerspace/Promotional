@@ -13,3 +13,5 @@ Index
 2) Beer Mats - Inkscape SVG and PDF
 
 3) Raspberry Pi Case - Based on Pi-Supply.com case licensed under CC-BY-SA, for model B, B+ and Pi2 model B
+
+4) Raspberry Pi - Pi Plate - Bread board and Pi mounting plate
